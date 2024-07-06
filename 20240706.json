@@ -1,4 +1,6 @@
-[{
+{
+    "Subscribe": [
+        {
     "data": "2024-07-06",
     "horario": "09:30",
     "vista_client_id": "20588",
@@ -368,4 +370,73 @@
     "vista_client_id": "40695",
     "nome": "Elaine Silvia veras",
     "fone": "554399868377"
-}]
+    }],
+    "unsubscribe": [
+        {
+            "data": "2024-07-06",
+            "horario": "09:34",
+            "nome": "HUMBERTO ",
+            "fone": "554391773463"
+        },
+        {
+            "data": "2024-07-06",
+            "horario": "09:49",
+            "nome": "Renê Costa ",
+            "fone": "554391289993"
+        },
+        {
+            "data": "2024-07-06",
+            "horario": "09:58",
+            "nome": "Ione Vasconcellos ",
+            "fone": "554399413092"
+        },
+        {
+            "data": "2024-07-06",
+            "horario": "10:07",
+            "nome": "_JA_ ",
+            "fone": "554388637942"
+        },
+        {
+            "data": "2024-07-06",
+            "horario": "10:14",
+            "nome": "Gabriel Busch ",
+            "fone": "554396328118"
+        },
+        {
+            "data": "2024-07-06",
+            "horario": "10:29",
+            "nome": "Braga Consultoria Business ",
+            "fone": "555196684135"
+        },
+        {
+            "data": "2024-07-06",
+            "horario": "10:59",
+            "nome": "Pedro Asperti ",
+            "fone": "554388025271"
+        },
+        {
+            "data": "2024-07-06",
+            "horario": "12:50",
+            "nome": "Ivo Ramos Da Silva ",
+            "fone": "554399195870"
+        },
+        {
+            "data": "2024-07-06",
+            "horario": "13:37",
+            "nome": "André Peretti ",
+            "fone": "554396573800"
+        },
+        {
+            "data": "2024-07-06",
+            "horario": "13:48",
+            "nome": "Daniel Borges de Souza ",
+            "fone": "554491766423"
+        },
+        {
+            "data": "2024-07-06",
+            "horario": "14:18",
+            "nome": "Gabriel ",
+            "fone": "554391154403"
+        }
+    ]
+}
