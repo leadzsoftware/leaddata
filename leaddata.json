@@ -16,16 +16,17 @@
         },
         {
             "Data": "2024-07-07",
-            "Destinatários": "428",
-            "Entregues": "",
-            "Abertas": "",
-            "Custo": "0.4163"
-        },
-        {
-            "Data": "2024-07-08",
             "Destinatários": "2117",
             "Entregues": "1782",
             "Abertas": "989",
+            "Custo": "0.4163"
+            
+        },
+        {
+            "Data": "2024-07-08",
+            "Destinatários": "428",
+            "Entregues": "0",
+            "Abertas": "0",
             "Custo": "0.4163",
             "lastUpdate": "2024-07-07 17:00"
         }
