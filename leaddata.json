@@ -5,21 +5,21 @@
             "Destinatários": "663",
             "Entregues": "631",
             "Abertas": "407",
-            "Custo": "0,4163"
+            "Custo": "0.4163"
         },
         {
             "Data": "2024-07-06",
             "Destinatários": "744",
             "Entregues": "655",
             "Abertas": "398",
-            "Custo": "0,4163"
+            "Custo": "0.4163"
         },
         {
             "Data": "2024-07-07",
             "Destinatários": "2117",
             "Entregues": "1782",
             "Abertas": "959",
-            "Custo": "0,4163"
+            "Custo": "0.4163"
         }
     ],
     "Lead": [
@@ -1041,7 +1041,7 @@
         {
             "Data": "2024-07-07",
             "Horário": "10:11",
-            "VistaID": "104163",
+            "VistaID": "1.4163",
             "Nome": "Deh",
             "Telefone": "554384366683"
         },
@@ -2173,25 +2173,25 @@
         {
             "Data": "2024-07-07",
             "Horário": "13:52",
-            "Nome:": "Leomar zagulski ",
+            "Nome": "Leomar zagulski ",
             "Telefone": "554396070132"
         },
         {
             "Data": "2024-07-07",
             "Horário": "14:08",
-            "Nome:": "Rosa ",
+            "Nome": "Rosa ",
             "Telefone": "554399460695"
         },
         {
             "Data": "2024-07-07",
             "Horário": "14:10",
-            "Nome:": "Daniel Brunasse Cordoba De LIM ",
+            "Nome": "Daniel Brunasse Cordoba De LIM ",
             "Telefone": "554399293346"
         },
         {
             "Data": "2024-07-07",
             "Horário": "14:11",
-            "Nome:": "Dсfila Fagotti ",
+            "Nome": "Dсfila Fagotti ",
             "Telefone": "5511917548472"
         }
     ]
