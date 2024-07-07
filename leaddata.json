@@ -27,7 +27,7 @@
             "Entregues": "0",
             "Abertas": "0",
             "Custo": "0.4163",
-            "lastUpdate": "2024-07-07 20:00"
+            "lastUpdate": "2024-07-07 20:15"
         }
     ],
     "Lead": [
@@ -1563,6 +1563,20 @@
             "VistaID": "96721",
             "Nome": "Tereza",
             "Telefone": "554396361727"
+        },
+        {
+            "Data": "2024-07-07",
+            "Horário": "20:05",
+            "VistaID": "46513",
+            "Nome": "Jose Tomas Neto",
+            "Telefone": "554399901301"
+        },
+        {
+            "Data": "2024-07-07",
+            "Horário": "20:07",
+            "VistaID": "43167",
+            "Nome": "LBeloti",
+            "Telefone": "554399558231"
         }
     ],
     "Descadastrados": [
