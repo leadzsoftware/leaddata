@@ -20,7 +20,6 @@
             "Entregues": "1782",
             "Abertas": "989",
             "Custo": "0.4163"
-            
         },
         {
             "Data": "2024-07-08",
@@ -28,7 +27,7 @@
             "Entregues": "0",
             "Abertas": "0",
             "Custo": "0.4163",
-            "lastUpdate": "2024-07-07 17:00"
+            "lastUpdate": "2024-07-07 20:00"
         }
     ],
     "Lead": [
@@ -2214,6 +2213,24 @@
             "Horário": "16:19",
             "Nome": "Fisio e Salute ",
             "Telefone": "554391240909"
+        },
+        {
+            "Data": "2024-07-07",
+            "Horário": "17:12",
+            "Nome": "Dαyαηє αguiαr ",
+            "Telefone": "554399303323"
+        },
+        {
+            "Data": "2024-07-07",
+            "Horário": "18:40",
+            "Nome": "Matheus Nakui ",
+            "Telefone": "554391940497"
+        },
+        {
+            "Data": "2024-07-07",
+            "Horário": "19:02",
+            "Nome": "Marcelo Capelasso ",
+            "Telefone": "554197229829"
         }
     ]
 }
