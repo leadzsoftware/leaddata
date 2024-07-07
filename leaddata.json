@@ -1,1126 +1,1639 @@
 {
-    "Subscribe": [
-        {
-            "date": "2024-07-05",
-            "time": "09:01",
-            "vista_client_id": "106189",
-            "nome": "Pitula",
-            "fone": "554388021041"
-        },
-        {
-            "date": "2024-07-05",
-    "time": "09:01",
-    "vista_client_id": "106955",
-    "nome": "Maria Fernanda Oribe D.",
-    "fone": "554391194999"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:01",
-    "vista_client_id": "99113",
-    "nome": "Marco Aurelio Pereira Da Silva",
-    "fone": "5511986212177"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:01",
-    "vista_client_id": "78427",
-    "nome": "Gabriela Arfelli",
-    "fone": "554399188446"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:01",
-    "vista_client_id": "103084",
-    "nome": "Bruno Eduardo Da Silva Antфnio",
-    "fone": "5511999648478"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:01",
-    "vista_client_id": "22736",
-    "nome": "Luiz",
-    "fone": "554391368485"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:01",
-    "vista_client_id": "104861",
-    "nome": "Alexandre Borto",
-    "fone": "554391050163"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:01",
-    "vista_client_id": "103761",
-    "nome": "Andre",
-    "fone": "554398002673"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:01",
-    "vista_client_id": "104270",
-    "nome": "Lucas",
-    "fone": "554391478015"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:01",
-    "vista_client_id": "102045",
-    "nome": "Raul Marcos Gaspar",
-    "fone": "5518997070803"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:02",
-    "vista_client_id": "18250",
-    "nome": "Maria Lúcia",
-    "fone": "554391127409"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:02",
-    "vista_client_id": "99113",
-    "nome": "Patricia Gonzalez Da Silva",
-    "fone": "5511981285800"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:02",
-    "vista_client_id": "37667",
-    "nome": "Thalita Freitas",
-    "fone": "554399090666"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:02",
-    "vista_client_id": "28743",
-    "nome": "Lais Lagreca",
-    "fone": "554399803912"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:02",
-    "vista_client_id": "103090",
-    "nome": "Luciana B. Szlachta",
-    "fone": "554399485059"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:02",
-    "vista_client_id": "36878",
-    "nome": "Igor Carlesso Sartore",
-    "fone": "554197630960"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:03",
-    "vista_client_id": "107434",
-    "nome": "WELLINGTON PENTEADO",
-    "fone": "554391126910"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:03",
-    "vista_client_id": "102657",
-    "nome": "Giovana Mantovani",
-    "fone": "554399347909"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:04",
-    "vista_client_id": "21835",
-    "nome": "Wania",
-    "fone": "554399936014"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:04",
-    "vista_client_id": "86831",
-    "nome": "Daniele Cabrera",
-    "fone": "554388487447"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:05",
-    "vista_client_id": "42599",
-    "nome": "Ney",
-    "fone": "554384147856"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:05",
-    "vista_client_id": "220",
-    "nome": "Thiago Augusto",
-    "fone": "554399651306"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:06",
-    "vista_client_id": "106033",
-    "nome": "Sabrina",
-    "fone": "554398631443"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:07",
-    "vista_client_id": "102404",
-    "nome": "Luciano",
-    "fone": "554333544334"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:08",
-    "vista_client_id": "108285",
-    "nome": "B. Borghesi",
-    "fone": "554399913533"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:08",
-    "vista_client_id": "104426",
-    "nome": "Flavio Martins Filho",
-    "fone": "554399771222"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:09",
-    "vista_client_id": "98732",
-    "nome": "Ludmila",
-    "fone": "554384994373"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:09",
-    "vista_client_id": "105805",
-    "nome": "Rullyan jose santos",
-    "fone": "554399728889"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:10",
-    "vista_client_id": "107128",
-    "nome": "Daniel Fernando De Souza",
-    "fone": "5511981231133"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:11",
-    "vista_client_id": "41405",
-    "nome": "Lucas Degan",
-    "fone": "554391573551"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:12",
-    "vista_client_id": "102989",
-    "nome": "Patricia Marsaro",
-    "fone": "554391260493"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:15",
-    "vista_client_id": "23327",
-    "nome": "vanessa souzateixeira1983",
-    "fone": "554384114204"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:16",
-    "vista_client_id": "4968",
-    "nome": "leonardo oba",
-    "fone": "554399143031"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:17",
-    "vista_client_id": "107541",
-    "nome": "Taiz Junior",
-    "fone": "554399976060"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:17",
-    "vista_client_id": "104443",
-    "nome": "Aline Pelaquim",
-    "fone": "554399298870"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:17",
-    "vista_client_id": "105838",
-    "nome": "JGA",
-    "fone": "554199345587"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:19",
-    "vista_client_id": "103913",
-    "nome": "Marina Vieira da Silva",
-    "fone": "554399004798"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:19",
-    "vista_client_id": "31581",
-    "nome": "Alexandre",
-    "fone": "554398622723"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:20",
-    "vista_client_id": "104260",
-    "nome": "Eduardo Arantes",
-    "fone": "554398702646"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:22",
-    "vista_client_id": "103065",
-    "nome": "Elaine Cristina F.",
-    "fone": "554388711001"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:28",
-    "vista_client_id": "107280",
-    "nome": "Arnoldo",
-    "fone": "554396543607"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:28",
-    "vista_client_id": "10286",
-    "nome": "Celso Roberto Vignadelli",
-    "fone": "554399916997"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:29",
-    "vista_client_id": "107418",
-    "nome": "Alan Vitor",
-    "fone": "554388349804"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:30",
-    "vista_client_id": "102991",
-    "nome": "VALDECIR DE OLIVEIRA",
-    "fone": "554391517920"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:32",
-    "vista_client_id": "102984",
-    "nome": "Gabriel S. Froehner",
-    "fone": "554391251681"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:34",
-    "vista_client_id": "105957",
-    "nome": "Ricardo",
-    "fone": "554399849695"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:40",
-    "vista_client_id": "105943",
-    "nome": "Telma Dutra",
-    "fone": "554384247455"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:44",
-    "vista_client_id": "41084",
-    "nome": "Ligia",
-    "fone": "554391073384"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:49",
-    "vista_client_id": "106099",
-    "nome": "Charles Brit0",
-    "fone": "554384242774"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:53",
-    "vista_client_id": "106057",
-    "nome": "Fernanda",
-    "fone": "554391595001"
-},
-{
-    "date": "2024-07-05",
-    "time": "09:55",
-    "vista_client_id": "41484",
-    "nome": "Alexandre Cabrillana",
-    "fone": "554396131900"
-},
-{
-    "date": "2024-07-05",
-    "time": "10:19",
-    "vista_client_id": "107582",
-    "nome": "Dafne Piovesana",
-    "fone": "554396039394"
-},
-{
-    "date": "2024-07-05",
-    "time": "10:24",
-    "vista_client_id": "104999",
-    "nome": "😀",
-    "fone": "554398195269"
-},
-{
-    "date": "2024-07-05",
-    "time": "10:40",
-    "vista_client_id": "106318",
-    "nome": "Gustavo Oliveira",
-    "fone": "554391019209"
-},
-{
-    "date": "2024-07-05",
-    "time": "10:47",
-    "vista_client_id": "105428",
-    "nome": "Andrew Bianchini",
-    "fone": "554391311500"
-},
-{
-    "date": "2024-07-05",
-    "time": "10:51",
-    "vista_client_id": "105747",
-    "nome": "Ligian Muliterno",
-    "fone": "554399124864"
-},
-{
-    "date": "2024-07-05",
-    "time": "11:08",
-    "vista_client_id": "103732",
-    "nome": "Melina Irene Delboni Granzotto",
-    "fone": "5517991415949"
-},
-{
-    "date": "2024-07-05",
-    "time": "11:40",
-    "vista_client_id": "106208",
-    "nome": "Daniel Silva Locação",
-    "fone": "554388673365"
-},
-{
-    "date": "2024-07-05",
-    "time": "12:11",
-    "vista_client_id": "508",
-    "nome": "Fabio Bernardo",
-    "fone": "554399919931"
-},
-{
-    "date": "2024-07-05",
-    "time": "12:35",
-    "vista_client_id": "104015",
-    "nome": "Dr. Victor Dessunti",
-    "fone": "554388133695"
-},
-{
-    "date": "2024-07-05",
-    "time": "12:58",
-    "vista_client_id": "10082",
-    "nome": "Victor",
-    "fone": "554384252294"
-},
-{
-    "date": "2024-07-05",
-    "time": "13:24",
-    "vista_client_id": "105694",
-    "nome": "Taiane Rossi",
-    "fone": "554396498366"
-},
-{
-    "date": "2024-07-05",
-    "time": "13:39",
-    "vista_client_id": "105599",
-    "nome": "Faber",
-    "fone": "554396598413"
-},
-{
-    "date": "2024-07-05",
-    "time": "13:43",
-    "vista_client_id": "107558",
-    "nome": "Vilaon Sonsin Ribeiro",
-    "fone": "554399948102"
-},
-{
-    "date": "2024-07-05",
-    "time": "14:09",
-    "vista_client_id": "107424",
-    "nome": "Ana Formighieri",
-    "fone": "554399325687"
-},
-{
-    "date": "2024-07-05",
-    "time": "15:12",
-    "vista_client_id": "104809",
-    "nome": "Raphael Otávio",
-    "fone": "554388189994"
-},
-{
-    "date": "2024-07-05",
-    "time": "15:13",
-    "vista_client_id": "46750",
-    "nome": "Alexandre",
-    "fone": "554399213692"
-},
-{
-    "date": "2024-07-05",
-    "time": "15:33",
-    "vista_client_id": "99934",
-    "nome": "Gabriel Hara",
-    "fone": "554398040598"
-},
-{
-    "date": "2024-07-05",
-    "time": "16:40",
-    "vista_client_id": "79457",
-    "nome": "Fabiana",
-    "fone": "554391316865"
-},
-{
-    "date": "2024-07-05",
-    "time": "17:05",
-    "vista_client_id": "105834",
-    "nome": "Maria Matos",
-    "fone": "554388332663"
-},
-{
-    "date": "2024-07-05",
-    "time": "19:27",
-    "vista_client_id": "80871",
-    "nome": "Alanna Huk",
-    "fone": "554391419851"
-},
-{
-    "date": "2024-07-05",
-    "time": "19:34",
-    "vista_client_id": "38979",
-    "nome": "Luis Ducatti",
-    "fone": "554388355602"
-},
-{
-    "date": "2024-07-05",
-    "time": "20:25",
-    "vista_client_id": "41390",
-    "nome": "Ronaldo Santos Silva",
-    "fone": "5511961216538"
-},
-{
-    "date": "2024-07-05",
-    "time": "23:53",
-    "vista_client_id": "99566",
-    "nome": "Letícia Burque",
-    "fone": "554396223990"
-},
-{
-    "date": "2024-07-06",
-    "time": "09:30",
-    "vista_client_id": "20588",
-    "nome": "Eduardo Cury",
-    "fone": "554391532081"
-},
-{
-    "date": "2024-07-06",
-    "time": "09:31",
-    "vista_client_id": "42724",
-    "nome": "Ana",
-    "fone": "554384276567"
-},
-{
-    "date": "2024-07-06",
-    "time": "09:33",
-    "vista_client_id": "104077",
-    "nome": "Tiago",
-    "fone": "554391692131"
-},
-{
-    "date": "2024-07-06",
-    "time": "09:33",
-    "vista_client_id": "106267",
-    "nome": "Flavio Trapp",
-    "fone": "554391052625"
-},
-{
-    "date": "2024-07-06",
-    "time": "09:33",
-    "vista_client_id": "103126",
-    "nome": "Monique Yumi",
-    "fone": "554399459979"
-},
-{
-    "date": "2024-07-06",
-    "time": "09:34",
-    "vista_client_id": "81586",
-    "nome": "Karen Parron",
-    "fone": "554399219493"
-},
-{
-    "date": "2024-07-06",
-    "time": "09:35",
-    "vista_client_id": "23277",
-    "nome": "Graziella",
-    "fone": "554396609778"
-},
-{
-    "date": "2024-07-06",
-    "time": "09:36",
-    "vista_client_id": "104152",
-    "nome": "❤️🙏💪",
-    "fone": "554399982400"
-},
-{
-    "date": "2024-07-06",
-    "time": "09:39",
-    "vista_client_id": "105051",
-    "nome": "Sueli",
-    "fone": "554396112737"
-},
-{
-    "date": "2024-07-06",
-    "time": "09:39",
-    "vista_client_id": "4745",
-    "nome": "Márcio Vilela De Queiroz",
-    "fone": "554399219840"
-},
-{
-    "date": "2024-07-06",
-    "time": "09:41",
-    "vista_client_id": "102177",
-    "nome": "Marcelo",
-    "fone": "554399231009"
-},
-{
-    "date": "2024-07-06",
-    "time": "09:46",
-    "vista_client_id": "107551",
-    "nome": "Adilson",
-    "fone": "554384096232"
-},
-{
-    "date": "2024-07-06",
-    "time": "09:49",
-    "vista_client_id": "105182",
-    "nome": "Renata Siqueira",
-    "fone": "554399325732"
-},
-{
-    "date": "2024-07-06",
-    "time": "09:49",
-    "vista_client_id": "107937",
-    "nome": "Igor Aleksandro Campos",
-    "fone": "554399948080"
-},
-{
-    "date": "2024-07-06",
-    "time": "09:51",
-    "vista_client_id": "108301",
-    "nome": "Regina",
-    "fone": "554399285368"
-},
-{
-    "date": "2024-07-06",
-    "time": "09:51",
-    "vista_client_id": "108302",
-    "nome": "Val Cosméticos e Presentes",
-    "fone": "554384413212"
-},
-{
-    "date": "2024-07-06",
-    "time": "09:52",
-    "vista_client_id": "31858",
-    "nome": "💕",
-    "fone": "554388165927"
-},
-{
-    "date": "2024-07-06",
-    "time": "09:52",
-    "vista_client_id": "94745",
-    "nome": "Gustavo Oliveira",
-    "fone": "554391587115"
-},
-{
-    "date": "2024-07-06",
-    "time": "09:52",
-    "vista_client_id": "940",
-    "nome": "Mario Andreotta",
-    "fone": "554399632144"
-},
-{
-    "date": "2024-07-06",
-    "time": "09:53",
-    "vista_client_id": "107200",
-    "nome": "Fabíola Gois",
-    "fone": "554391111566"
-},
-{
-    "date": "2024-07-06",
-    "time": "09:55",
-    "vista_client_id": "104244",
-    "nome": "Marcio - Artesano",
-    "fone": "5511916669922"
-},
-{
-    "date": "2024-07-06",
-    "time": "09:55",
-    "vista_client_id": "102658",
-    "nome": "Camila Azarias",
-    "fone": "554388406520"
-},
-{
-    "date": "2024-07-06",
-    "time": "09:55",
-    "vista_client_id": "2698",
-    "nome": "Rodrigo Luiz Pachemshy",
-    "fone": "554384098679"
-},
-{
-    "date": "2024-07-06",
-    "time": "09:57",
-    "vista_client_id": "20073",
-    "nome": "Erico",
-    "fone": "554396079002"
-},
-{
-    "date": "2024-07-06",
-    "time": "10:02",
-    "vista_client_id": "105321",
-    "nome": "Carolina Caetano",
-    "fone": "554399021158"
-},
-{
-    "date": "2024-07-06",
-    "time": "10:03",
-    "vista_client_id": "40771",
-    "nome": "Paulo Calzavara",
-    "fone": "554388079348"
-},
-{
-    "date": "2024-07-06",
-    "time": "10:03",
-    "vista_client_id": "34642",
-    "nome": "Dayane Mendes",
-    "fone": "554396204152"
-},
-{
-    "date": "2024-07-06",
-    "time": "10:06",
-    "vista_client_id": "105567",
-    "nome": "Tom",
-    "fone": "554399416508"
-},
-{
-    "date": "2024-07-06",
-    "time": "10:06",
-    "vista_client_id": "41743",
-    "nome": "Marisa Fontana",
-    "fone": "554384035636"
-},
-{
-    "date": "2024-07-06",
-    "time": "10:11",
-    "vista_client_id": "35439",
-    "nome": "Maria Regina Silva Henrique",
-    "fone": "554399028440"
-},
-{
-    "date": "2024-07-06",
-    "time": "10:12",
-    "vista_client_id": "102657",
-    "nome": "Giovana Mantovani",
-    "fone": "554399347909"
-},
-{
-    "date": "2024-07-06",
-    "time": "10:13",
-    "vista_client_id": "106807",
-    "nome": "Eliane Oliveira Santos",
-    "fone": "554396109669"
-},
-{
-    "date": "2024-07-06",
-    "time": "10:13",
-    "vista_client_id": "106117",
-    "nome": "Reinaldo",
-    "fone": "554388061644"
-},
-{
-    "date": "2024-07-06",
-    "time": "10:14",
-    "vista_client_id": "106476",
-    "nome": "Jorge Bittar",
-    "fone": "554399959441"
-},
-{
-    "date": "2024-07-06",
-    "time": "10:22",
-    "vista_client_id": "81104",
-    "nome": "Shirle Catian 💜✨🍀",
-    "fone": "554388156619"
-},
-{
-    "date": "2024-07-06",
-    "time": "10:34",
-    "vista_client_id": "108304",
-    "nome": "Fernando Henrique Furlanetto Garcia",
-    "fone": "554399816448"
-},
-{
-    "date": "2024-07-06",
-    "time": "10:34",
-    "vista_client_id": "108305",
-    "nome": "Delmar Fonseca",
-    "fone": "554388617299"
-},
-{
-    "date": "2024-07-06",
-    "time": "10:39",
-    "vista_client_id": "103680",
-    "nome": "Adriana",
-    "fone": "554388590540"
-},
-{
-    "date": "2024-07-06",
-    "time": "10:58",
-    "vista_client_id": "45640",
-    "nome": "Fábio Nascimento FN9",
-    "fone": "554399096685"
-},
-{
-    "date": "2024-07-06",
-    "time": "11:01",
-    "vista_client_id": "3289",
-    "nome": "Flavi",
-    "fone": "554391187770"
-},
-{
-    "date": "2024-07-06",
-    "time": "11:21",
-    "vista_client_id": "1865",
-    "nome": "MARCELO POLI",
-    "fone": "554391414080"
-},
-{
-    "date": "2024-07-06",
-    "time": "11:28",
-    "vista_client_id": "107146",
-    "nome": "Eduardo Sinino",
-    "fone": "554399961960"
-},
-{
-    "date": "2024-07-06",
-    "time": "11:34",
-    "vista_client_id": "103714",
-    "nome": "Alexandre Amancio",
-    "fone": "554384014600"
-},
-{
-    "date": "2024-07-06",
-    "time": "11:35",
-    "vista_client_id": "1586",
-    "nome": "Fabricio Ronca",
-    "fone": "554399848448"
-},
-{
-    "date": "2024-07-06",
-    "time": "11:44",
-    "vista_client_id": "4301",
-    "nome": "Nadina Moreno",
-    "fone": "554399945122"
-},
-{
-    "date": "2024-07-06",
-    "time": "12:01",
-    "vista_client_id": "108308",
-    "nome": "Gilson",
-    "fone": "554388299396"
-},
-{
-    "date": "2024-07-06",
-    "time": "12:04",
-    "vista_client_id": "107969",
-    "nome": "Paulo Tirapelle 🇧🇷",
-    "fone": "554391398408"
-},
-{
-    "date": "2024-07-06",
-    "time": "12:41",
-    "vista_client_id": "108310",
-    "nome": "Luis",
-    "fone": "554399906844"
-},
-{
-    "date": "2024-07-06",
-    "time": "13:18",
-    "vista_client_id": "108311",
-    "nome": "Davi",
-    "fone": "554391481152"
-},
-{
-    "date": "2024-07-06",
-    "time": "14:16",
-    "vista_client_id": "33826",
-    "nome": "Igor Falcão",
-    "fone": "554391211001"
-},
-{
-    "date": "2024-07-06",
-    "time": "14:42",
-    "vista_client_id": "1061",
-    "nome": "Cintia Borin",
-    "fone": "554399001111"
-},
-{
-    "date": "2024-07-06",
-    "time": "16:04",
-    "vista_client_id": "45322",
-    "nome": "Luiz Bonetti",
-    "fone": "5519981729105"
-},
-{
-    "date": "2024-07-06",
-    "time": "18:27",
-    "vista_client_id": "40695",
-    "nome": "Elaine Silvia veras",
-    "fone": "554399868377"
+    "leaddata": {
+        "custo": "0,4163",
+        "info": {
+            "2024-07-05": {
+                "Destinatários": "663",
+                "Entregues": "631",
+                "Abertas": "407"
+            },
+            "2024-07-06": {
+                "Destinatários": "744",
+                "Entregues": "655",
+                "Abertas": "398"
+            },
+            "2024-07-07": {
+                "Destinatários": "2117",
+                "Entregues": "1776",
+                "Abertas": "929"
+            }
+        }
+    },
+    "Lead": {
+        "2024-07-05": [
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:01",
+                "VistaID": "106189",
+                "Nome": "Pitula",
+                "Telefone": "554388021041"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:01",
+                "VistaID": "106955",
+                "Nome": "Maria Fernanda Oribe D.",
+                "Telefone": "554391194999"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:01",
+                "VistaID": "99113",
+                "Nome": "Marco Aurelio Pereira Da Silva",
+                "Telefone": "5511986212177"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:01",
+                "VistaID": "78427",
+                "Nome": "Gabriela Arfelli",
+                "Telefone": "554399188446"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:01",
+                "VistaID": "103084",
+                "Nome": "Bruno Eduardo Da Silva Antфnio",
+                "Telefone": "5511999648478"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:01",
+                "VistaID": "22736",
+                "Nome": "Luiz",
+                "Telefone": "554391368485"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:01",
+                "VistaID": "104861",
+                "Nome": "Alexandre Borto",
+                "Telefone": "554391050163"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:01",
+                "VistaID": "103761",
+                "Nome": "Andre",
+                "Telefone": "554398002673"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:01",
+                "VistaID": "104270",
+                "Nome": "Lucas",
+                "Telefone": "554391478015"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:01",
+                "VistaID": "102045",
+                "Nome": "Raul Marcos Gaspar",
+                "Telefone": "5518997070803"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:02",
+                "VistaID": "18250",
+                "Nome": "Maria Lúcia",
+                "Telefone": "554391127409"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:02",
+                "VistaID": "99113",
+                "Nome": "Patricia Gonzalez Da Silva",
+                "Telefone": "5511981285800"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:02",
+                "VistaID": "37667",
+                "Nome": "Thalita Freitas",
+                "Telefone": "554399090666"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:02",
+                "VistaID": "28743",
+                "Nome": "Lais Lagreca",
+                "Telefone": "554399803912"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:02",
+                "VistaID": "103090",
+                "Nome": "Luciana B. Szlachta",
+                "Telefone": "554399485059"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:02",
+                "VistaID": "36878",
+                "Nome": "Igor Carlesso Sartore",
+                "Telefone": "554197630960"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:03",
+                "VistaID": "107434",
+                "Nome": "WELLINGTON PENTEADO",
+                "Telefone": "554391126910"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:03",
+                "VistaID": "102657",
+                "Nome": "Giovana Mantovani",
+                "Telefone": "554399347909"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:04",
+                "VistaID": "21835",
+                "Nome": "Wania",
+                "Telefone": "554399936014"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:04",
+                "VistaID": "86831",
+                "Nome": "Daniele Cabrera",
+                "Telefone": "554388487447"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:05",
+                "VistaID": "42599",
+                "Nome": "Ney",
+                "Telefone": "554384147856"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:05",
+                "VistaID": "220",
+                "Nome": "Thiago Augusto",
+                "Telefone": "554399651306"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:06",
+                "VistaID": "106033",
+                "Nome": "Sabrina",
+                "Telefone": "554398631443"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:07",
+                "VistaID": "102404",
+                "Nome": "Luciano",
+                "Telefone": "554333544334"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:08",
+                "VistaID": "108285",
+                "Nome": "B. Borghesi",
+                "Telefone": "554399913533"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:08",
+                "VistaID": "104426",
+                "Nome": "Flavio Martins Filho",
+                "Telefone": "554399771222"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:09",
+                "VistaID": "98732",
+                "Nome": "Ludmila",
+                "Telefone": "554384994373"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:09",
+                "VistaID": "105805",
+                "Nome": "Rullyan jose santos",
+                "Telefone": "554399728889"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:10",
+                "VistaID": "107128",
+                "Nome": "Daniel Fernando De Souza",
+                "Telefone": "5511981231133"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:11",
+                "VistaID": "41405",
+                "Nome": "Lucas Degan",
+                "Telefone": "554391573551"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:12",
+                "VistaID": "102989",
+                "Nome": "Patricia Marsaro",
+                "Telefone": "554391260493"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:15",
+                "VistaID": "23327",
+                "Nome": "vanessa souzateixeira1983",
+                "Telefone": "554384114204"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:16",
+                "VistaID": "4968",
+                "Nome": "leonardo oba",
+                "Telefone": "554399143031"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:17",
+                "VistaID": "107541",
+                "Nome": "Taiz Junior",
+                "Telefone": "554399976060"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:17",
+                "VistaID": "104443",
+                "Nome": "Aline Pelaquim",
+                "Telefone": "554399298870"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:17",
+                "VistaID": "105838",
+                "Nome": "JGA",
+                "Telefone": "554199345587"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:19",
+                "VistaID": "103913",
+                "Nome": "Marina Vieira da Silva",
+                "Telefone": "554399004798"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:19",
+                "VistaID": "31581",
+                "Nome": "Alexandre",
+                "Telefone": "554398622723"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:20",
+                "VistaID": "104260",
+                "Nome": "Eduardo Arantes",
+                "Telefone": "554398702646"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:22",
+                "VistaID": "103065",
+                "Nome": "Elaine Cristina F.",
+                "Telefone": "554388711001"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:28",
+                "VistaID": "107280",
+                "Nome": "Arnoldo",
+                "Telefone": "554396543607"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:28",
+                "VistaID": "10286",
+                "Nome": "Celso Roberto Vignadelli",
+                "Telefone": "554399916997"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:29",
+                "VistaID": "107418",
+                "Nome": "Alan Vitor",
+                "Telefone": "554388349804"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:30",
+                "VistaID": "102991",
+                "Nome": "VALDECIR DE OLIVEIRA",
+                "Telefone": "554391517920"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:32",
+                "VistaID": "102984",
+                "Nome": "Gabriel S. Froehner",
+                "Telefone": "554391251681"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:34",
+                "VistaID": "105957",
+                "Nome": "Ricardo",
+                "Telefone": "554399849695"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:40",
+                "VistaID": "105943",
+                "Nome": "Telma Dutra",
+                "Telefone": "554384247455"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:44",
+                "VistaID": "41084",
+                "Nome": "Ligia",
+                "Telefone": "554391073384"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:49",
+                "VistaID": "106099",
+                "Nome": "Charles Brit0",
+                "Telefone": "554384242774"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:53",
+                "VistaID": "106057",
+                "Nome": "Fernanda",
+                "Telefone": "554391595001"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "09:55",
+                "VistaID": "41484",
+                "Nome": "Alexandre Cabrillana",
+                "Telefone": "554396131900"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "10:19",
+                "VistaID": "107582",
+                "Nome": "Dafne Piovesana",
+                "Telefone": "554396039394"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "10:24",
+                "VistaID": "104999",
+                "Nome": "😀",
+                "Telefone": "554398195269"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "10:40",
+                "VistaID": "106318",
+                "Nome": "Gustavo Oliveira",
+                "Telefone": "554391019209"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "10:47",
+                "VistaID": "105428",
+                "Nome": "Andrew Bianchini",
+                "Telefone": "554391311500"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "10:51",
+                "VistaID": "105747",
+                "Nome": "Ligian Muliterno",
+                "Telefone": "554399124864"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "11:08",
+                "VistaID": "103732",
+                "Nome": "Melina Irene Delboni Granzotto",
+                "Telefone": "5517991415949"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "11:40",
+                "VistaID": "106208",
+                "Nome": "Daniel Silva Locação",
+                "Telefone": "554388673365"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "12:11",
+                "VistaID": "508",
+                "Nome": "Fabio Bernardo",
+                "Telefone": "554399919931"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "12:35",
+                "VistaID": "104015",
+                "Nome": "Dr. Victor Dessunti",
+                "Telefone": "554388133695"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "12:58",
+                "VistaID": "10082",
+                "Nome": "Victor",
+                "Telefone": "554384252294"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "13:24",
+                "VistaID": "105694",
+                "Nome": "Taiane Rossi",
+                "Telefone": "554396498366"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "13:39",
+                "VistaID": "105599",
+                "Nome": "Faber",
+                "Telefone": "554396598413"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "13:43",
+                "VistaID": "107558",
+                "Nome": "Vilaon Sonsin Ribeiro",
+                "Telefone": "554399948102"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "14:09",
+                "VistaID": "107424",
+                "Nome": "Ana Formighieri",
+                "Telefone": "554399325687"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "15:12",
+                "VistaID": "104809",
+                "Nome": "Raphael Otávio",
+                "Telefone": "554388189994"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "15:13",
+                "VistaID": "46750",
+                "Nome": "Alexandre",
+                "Telefone": "554399213692"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "15:33",
+                "VistaID": "99934",
+                "Nome": "Gabriel Hara",
+                "Telefone": "554398040598"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "16:40",
+                "VistaID": "79457",
+                "Nome": "Fabiana",
+                "Telefone": "554391316865"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "17:05",
+                "VistaID": "105834",
+                "Nome": "Maria Matos",
+                "Telefone": "554388332663"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "19:27",
+                "VistaID": "80871",
+                "Nome": "Alanna Huk",
+                "Telefone": "554391419851"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "19:34",
+                "VistaID": "38979",
+                "Nome": "Luis Ducatti",
+                "Telefone": "554388355602"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "20:25",
+                "VistaID": "41390",
+                "Nome": "Ronaldo Santos Silva",
+                "Telefone": "5511961216538"
+            },
+            {
+                "Data": "2024-07-05",
+                "Horário": "23:53",
+                "VistaID": "99566",
+                "Nome": "Letícia Burque",
+                "Telefone": "554396223990"
+            }
+        ],
+        "2024-07-06": [
+            {
+                "Data": "2024-07-06",
+                "Horário": "09:30",
+                "VistaID": "20588",
+                "Nome": "Eduardo Cury",
+                "Telefone": "554391532081"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "09:31",
+                "VistaID": "42724",
+                "Nome": "Ana",
+                "Telefone": "554384276567"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "09:33",
+                "VistaID": "104077",
+                "Nome": "Tiago",
+                "Telefone": "554391692131"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "09:33",
+                "VistaID": "106267",
+                "Nome": "Flavio Trapp",
+                "Telefone": "554391052625"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "09:33",
+                "VistaID": "103126",
+                "Nome": "Monique Yumi",
+                "Telefone": "554399459979"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "09:34",
+                "VistaID": "81586",
+                "Nome": "Karen Parron",
+                "Telefone": "554399219493"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "09:35",
+                "VistaID": "23277",
+                "Nome": "Graziella",
+                "Telefone": "554396609778"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "09:36",
+                "VistaID": "104152",
+                "Nome": "❤️🙏💪",
+                "Telefone": "554399982400"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "09:39",
+                "VistaID": "105051",
+                "Nome": "Sueli",
+                "Telefone": "554396112737"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "09:39",
+                "VistaID": "4745",
+                "Nome": "Márcio Vilela De Queiroz",
+                "Telefone": "554399219840"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "09:41",
+                "VistaID": "102177",
+                "Nome": "Marcelo",
+                "Telefone": "554399231009"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "09:46",
+                "VistaID": "107551",
+                "Nome": "Adilson",
+                "Telefone": "554384096232"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "09:49",
+                "VistaID": "105182",
+                "Nome": "Renata Siqueira",
+                "Telefone": "554399325732"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "09:49",
+                "VistaID": "107937",
+                "Nome": "Igor Aleksandro Campos",
+                "Telefone": "554399948080"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "09:51",
+                "VistaID": "108301",
+                "Nome": "Regina",
+                "Telefone": "554399285368"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "09:51",
+                "VistaID": "108302",
+                "Nome": "Val Cosméticos e Presentes",
+                "Telefone": "554384413212"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "09:52",
+                "VistaID": "31858",
+                "Nome": "💕",
+                "Telefone": "554388165927"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "09:52",
+                "VistaID": "94745",
+                "Nome": "Gustavo Oliveira",
+                "Telefone": "554391587115"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "09:52",
+                "VistaID": "940",
+                "Nome": "Mario Andreotta",
+                "Telefone": "554399632144"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "09:53",
+                "VistaID": "107200",
+                "Nome": "Fabíola Gois",
+                "Telefone": "554391111566"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "09:55",
+                "VistaID": "104244",
+                "Nome": "Marcio - Artesano",
+                "Telefone": "5511916669922"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "09:55",
+                "VistaID": "102658",
+                "Nome": "Camila Azarias",
+                "Telefone": "554388406520"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "09:55",
+                "VistaID": "2698",
+                "Nome": "Rodrigo Luiz Pachemshy",
+                "Telefone": "554384098679"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "09:57",
+                "VistaID": "20073",
+                "Nome": "Erico",
+                "Telefone": "554396079002"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "10:02",
+                "VistaID": "105321",
+                "Nome": "Carolina Caetano",
+                "Telefone": "554399021158"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "10:03",
+                "VistaID": "40771",
+                "Nome": "Paulo Calzavara",
+                "Telefone": "554388079348"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "10:03",
+                "VistaID": "34642",
+                "Nome": "Dayane Mendes",
+                "Telefone": "554396204152"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "10:06",
+                "VistaID": "105567",
+                "Nome": "Tom",
+                "Telefone": "554399416508"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "10:06",
+                "VistaID": "41743",
+                "Nome": "Marisa Fontana",
+                "Telefone": "554384035636"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "10:11",
+                "VistaID": "35439",
+                "Nome": "Maria Regina Silva Henrique",
+                "Telefone": "554399028440"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "10:12",
+                "VistaID": "102657",
+                "Nome": "Giovana Mantovani",
+                "Telefone": "554399347909"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "10:13",
+                "VistaID": "106807",
+                "Nome": "Eliane Oliveira Santos",
+                "Telefone": "554396109669"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "10:13",
+                "VistaID": "106117",
+                "Nome": "Reinaldo",
+                "Telefone": "554388061644"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "10:14",
+                "VistaID": "106476",
+                "Nome": "Jorge Bittar",
+                "Telefone": "554399959441"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "10:22",
+                "VistaID": "81104",
+                "Nome": "Shirle Catian 💜✨🍀",
+                "Telefone": "554388156619"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "10:34",
+                "VistaID": "108304",
+                "Nome": "Fernando Henrique Furlanetto Garcia",
+                "Telefone": "554399816448"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "10:34",
+                "VistaID": "108305",
+                "Nome": "Delmar Fonseca",
+                "Telefone": "554388617299"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "10:39",
+                "VistaID": "103680",
+                "Nome": "Adriana",
+                "Telefone": "554388590540"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "10:58",
+                "VistaID": "45640",
+                "Nome": "Fábio Nascimento FN9",
+                "Telefone": "554399096685"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "11:01",
+                "VistaID": "3289",
+                "Nome": "Flavi",
+                "Telefone": "554391187770"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "11:21",
+                "VistaID": "1865",
+                "Nome": "MARCELO POLI",
+                "Telefone": "554391414080"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "11:28",
+                "VistaID": "107146",
+                "Nome": "Eduardo Sinino",
+                "Telefone": "554399961960"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "11:34",
+                "VistaID": "103714",
+                "Nome": "Alexandre Amancio",
+                "Telefone": "554384014600"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "11:35",
+                "VistaID": "1586",
+                "Nome": "Fabricio Ronca",
+                "Telefone": "554399848448"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "11:44",
+                "VistaID": "4301",
+                "Nome": "Nadina Moreno",
+                "Telefone": "554399945122"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "12:01",
+                "VistaID": "108308",
+                "Nome": "Gilson",
+                "Telefone": "554388299396"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "12:04",
+                "VistaID": "107969",
+                "Nome": "Paulo Tirapelle 🇧🇷",
+                "Telefone": "554391398408"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "12:41",
+                "VistaID": "108310",
+                "Nome": "Luis",
+                "Telefone": "554399906844"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "13:18",
+                "VistaID": "108311",
+                "Nome": "Davi",
+                "Telefone": "554391481152"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "14:16",
+                "VistaID": "33826",
+                "Nome": "Igor Falcão",
+                "Telefone": "554391211001"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "14:42",
+                "VistaID": "1061",
+                "Nome": "Cintia Borin",
+                "Telefone": "554399001111"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "16:04",
+                "VistaID": "45322",
+                "Nome": "Luiz Bonetti",
+                "Telefone": "5519981729105"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "18:27",
+                "VistaID": "40695",
+                "Nome": "Elaine Silvia veras",
+                "Telefone": "554399868377"
+            }
+        ]
+    },
+    "Descadastrados": {
+        "2024-07-05": [
+            {
+                "Data": "2024-07-05",
+                "VistaID": "",
+                "Horário": "09:00",
+                "Nome": "Aline Melo",
+                "Telefone": "554399315701"
+            },
+            {
+                "Data": "2024-07-05",
+                "VistaID": "",
+                "Horário": "09:01",
+                "Nome": "Tereza Cristina",
+                "Telefone": "554399259060"
+            },
+            {
+                "Data": "2024-07-05",
+                "VistaID": "",
+                "Horário": "09:01",
+                "Nome": "Amadeu Salioni",
+                "Telefone": "554391397183"
+            },
+            {
+                "Data": "2024-07-05",
+                "VistaID": "",
+                "Horário": "09:01",
+                "Nome": "Jose Cesar De Lima Ferrei",
+                "Telefone": "554388148443"
+            },
+            {
+                "Data": "2024-07-05",
+                "VistaID": "",
+                "Horário": "09:02",
+                "Nome": "Alfredo Braz",
+                "Telefone": "554384471501"
+            },
+            {
+                "Data": "2024-07-05",
+                "VistaID": "",
+                "Horário": "09:02",
+                "Nome": "Sandra Vessoni",
+                "Telefone": "554399934655"
+            },
+            {
+                "Data": "2024-07-05",
+                "VistaID": "",
+                "Horário": "09:03",
+                "Nome": "Mirian",
+                "Telefone": "554396669972"
+            },
+            {
+                "Data": "2024-07-05",
+                "VistaID": "",
+                "Horário": "09:04",
+                "Nome": "Samara Gallete",
+                "Telefone": "554391388415"
+            },
+            {
+                "Data": "2024-07-05",
+                "VistaID": "",
+                "Horário": "09:07",
+                "Nome": "Matheus Gois",
+                "Telefone": "554396010653"
+            },
+            {
+                "Data": "2024-07-05",
+                "VistaID": "",
+                "Horário": "09:09",
+                "Nome": "Tiago",
+                "Telefone": "554399434392"
+            },
+            {
+                "Data": "2024-07-05",
+                "VistaID": "",
+                "Horário": "09:22",
+                "Nome": "Angelo",
+                "Telefone": "554797721105"
+            },
+            {
+                "Data": "2024-07-05",
+                "VistaID": "",
+                "Horário": "09:29",
+                "Nome": "Alexandre Pessoa Garcia",
+                "Telefone": "554384245529"
+            },
+            {
+                "Data": "2024-07-05",
+                "VistaID": "",
+                "Horário": "09:40",
+                "Nome": "Geraldo",
+                "Telefone": "554399333119"
+            },
+            {
+                "Data": "2024-07-05",
+                "VistaID": "",
+                "Horário": "09:44",
+                "Nome": "Kassia Folego",
+                "Telefone": "554388415787"
+            },
+            {
+                "Data": "2024-07-05",
+                "VistaID": "",
+                "Horário": "09:55",
+                "Nome": "Juliano Lisboa Sanches",
+                "Telefone": "554396134748"
+            },
+            {
+                "Data": "2024-07-05",
+                "VistaID": "",
+                "Horário": "09:59",
+                "Nome": "Antônio",
+                "Telefone": "554388545206"
+            },
+            {
+                "Data": "2024-07-05",
+                "VistaID": "",
+                "Horário": "10:19",
+                "Nome": "Manuel Ilidio Salgado",
+                "Telefone": "554396691811"
+            },
+            {
+                "Data": "2024-07-05",
+                "VistaID": "",
+                "Horário": "10:50",
+                "Nome": "Edilaine",
+                "Telefone": "554388376610"
+            },
+            {
+                "Data": "2024-07-05",
+                "VistaID": "",
+                "Horário": "11:47",
+                "Nome": "Ana Paula Schultz",
+                "Telefone": "554399744939"
+            },
+            {
+                "Data": "2024-07-05",
+                "VistaID": "",
+                "Horário": "11:48",
+                "Nome": "Adilson",
+                "Telefone": "554399093536"
+            },
+            {
+                "Data": "2024-07-05",
+                "VistaID": "",
+                "Horário": "12:48",
+                "Nome": "Prof. Maria Angela",
+                "Telefone": "554399438391"
+            },
+            {
+                "Data": "2024-07-05",
+                "VistaID": "",
+                "Horário": "13:03",
+                "Nome": "Thiago Santos Hort",
+                "Telefone": "554399302152"
+            }
+        ],
+        "2024-07-06": [
+            {
+                "Data": "2024-07-06",
+                "Horário": "09:34",
+                "VistaID": "",
+                "Nome": "HUMBERTO ",
+                "Telefone": "554391773463"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "09:49",
+                "VistaID": "",
+                "Nome": "Renê Costa ",
+                "Telefone": "554391289993"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "09:58",
+                "VistaID": "",
+                "Nome": "Ione Vasconcellos ",
+                "Telefone": "554399413092"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "10:07",
+                "VistaID": "",
+                "Nome": "_JA_ ",
+                "Telefone": "554388637942"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "10:14",
+                "VistaID": "",
+                "Nome": "Gabriel Busch ",
+                "Telefone": "554396328118"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "10:29",
+                "VistaID": "",
+                "Nome": "Braga Consultoria Business ",
+                "Telefone": "555196684135"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "10:59",
+                "VistaID": "",
+                "Nome": "Pedro Asperti ",
+                "Telefone": "554388025271"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "12:50",
+                "VistaID": "",
+                "Nome": "Ivo Ramos Da Silva ",
+                "Telefone": "554399195870"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "13:37",
+                "VistaID": "",
+                "Nome": "André Peretti ",
+                "Telefone": "554396573800"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "13:48",
+                "VistaID": "",
+                "Nome": "Daniel Borges de Souza ",
+                "Telefone": "554491766423"
+            },
+            {
+                "Data": "2024-07-06",
+                "Horário": "14:18",
+                "VistaID": "",
+                "Nome": "Gabriel ",
+                "Telefone": "554391154403"
+            }
+        ],
+        "2024-07-07": [
+            {
+                "Data": "2024-07-07",
+                "Horário": "09:44",
+                "VistaID": "",
+                "Nome": "edson scalassara",
+                "Telefone": "554391416822"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:01",
+                "VistaID": "",
+                "Nome": "Renato Braz Ferreira",
+                "Telefone": "554396986657"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:01",
+                "VistaID": "",
+                "Nome": "StelaMaris P... Zagatto",
+                "Telefone": "554391614930"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:01",
+                "VistaID": "",
+                "Nome": "Filipe Oscar",
+                "Telefone": "554388039496"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:02",
+                "VistaID": "",
+                "Nome": "Junior",
+                "Telefone": "554384010341"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:02",
+                "VistaID": "",
+                "Nome": "Naiady Campiolo",
+                "Telefone": "554399684768"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:03",
+                "VistaID": "",
+                "Nome": "Lucivaldo Soaresdasilva",
+                "Telefone": "558999100077"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:04",
+                "VistaID": "",
+                "Nome": "Mariana",
+                "Telefone": "554398198082"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:04",
+                "VistaID": "",
+                "Nome": "Zenilda Andrade",
+                "Telefone": "554391298801"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:05",
+                "VistaID": "",
+                "Nome": "Rosalina",
+                "Telefone": "554388561221"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:05",
+                "VistaID": "",
+                "Nome": "Samar F. Azanki Abreu - Fonoaudióloga Audiovitta",
+                "Telefone": "554391913282"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:07",
+                "VistaID": "",
+                "Nome": "Silvana Zagabria",
+                "Telefone": "554391621100"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:08",
+                "VistaID": "",
+                "Nome": "Vanderlei Salviato",
+                "Telefone": "554388030551"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:08",
+                "VistaID": "",
+                "Nome": "Luana Ceolin",
+                "Telefone": "554399334472"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:10",
+                "VistaID": "",
+                "Nome": "Bruno",
+                "Telefone": "554396592122"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:10",
+                "VistaID": "",
+                "Nome": "Cristiano",
+                "Telefone": "554391533307"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:10",
+                "VistaID": "",
+                "Nome": "Elza",
+                "Telefone": "554399433358"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:11",
+                "VistaID": "",
+                "Nome": "Almir Caron",
+                "Telefone": "554199739705"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:11",
+                "VistaID": "",
+                "Nome": "Basilio",
+                "Telefone": "554399136000"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:11",
+                "VistaID": "",
+                "Nome": "Raquel",
+                "Telefone": "554388040862"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:13",
+                "VistaID": "",
+                "Nome": "Antфnio Marcos Pacheco/lucas",
+                "Telefone": "5541920008097"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:14",
+                "VistaID": "",
+                "Nome": "Pedro Borsatto",
+                "Telefone": "554399227082"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:14",
+                "VistaID": "",
+                "Nome": "Drielly",
+                "Telefone": "554391525142"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:16",
+                "VistaID": "",
+                "Nome": "Leandro",
+                "Telefone": "554391052449"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:16",
+                "VistaID": "",
+                "Nome": "Adriana Santos Grion",
+                "Telefone": "554391080643"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:16",
+                "VistaID": "",
+                "Nome": "Tiago",
+                "Telefone": "554399434392"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:18",
+                "VistaID": "",
+                "Nome": "Gabriela",
+                "Telefone": "554388198904"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:18",
+                "VistaID": "",
+                "Nome": "Beatriz",
+                "Telefone": "554396801826"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:19",
+                "VistaID": "",
+                "Nome": "Janaina",
+                "Telefone": "554391014039"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:19",
+                "VistaID": "",
+                "Nome": "Cleo",
+                "Telefone": "554399531080"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:20",
+                "VistaID": "",
+                "Nome": "Renata Gontijo",
+                "Telefone": "554388029912"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:20",
+                "VistaID": "",
+                "Nome": "sandrasureck",
+                "Telefone": "554399802163"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:21",
+                "VistaID": "",
+                "Nome": "Marcio Hashimoto",
+                "Telefone": "554391059542"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:22",
+                "VistaID": "",
+                "Nome": "Fabiana Vieira Augusto Braz",
+                "Telefone": "5513992009996"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:22",
+                "VistaID": "",
+                "Nome": "Ana Margarete P Batista",
+                "Telefone": "554391088408"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:23",
+                "VistaID": "",
+                "Nome": "Franco Mattos",
+                "Telefone": "554399151220"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:24",
+                "VistaID": "",
+                "Nome": "Moisés Almeida",
+                "Telefone": "554396084793"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:24",
+                "VistaID": "",
+                "Nome": "Flávia",
+                "Telefone": "554399056459"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:25",
+                "VistaID": "",
+                "Nome": "Wagner Almirуo",
+                "Telefone": "554399515266"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:26",
+                "VistaID": "",
+                "Nome": "Silmara Nicola",
+                "Telefone": "554599381764"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:27",
+                "VistaID": "",
+                "Nome": "Lucilene",
+                "Telefone": "5511972509221"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:27",
+                "VistaID": "",
+                "Nome": "Joaquim",
+                "Telefone": "554398554981"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:28",
+                "VistaID": "",
+                "Nome": "Jonathas",
+                "Telefone": "554391134225"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:29",
+                "VistaID": "",
+                "Nome": "Janaína",
+                "Telefone": "554399457523"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:30",
+                "VistaID": "",
+                "Nome": "Flavio Gusmao",
+                "Telefone": "554391395501"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:33",
+                "VistaID": "",
+                "Nome": "Vera Portella",
+                "Telefone": "554399295531"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:37",
+                "VistaID": "",
+                "Nome": "Julio Cesar",
+                "Telefone": "554399955153"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:44",
+                "VistaID": "",
+                "Nome": "Cristina",
+                "Telefone": "554399103558"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:48",
+                "VistaID": "",
+                "Nome": "Eduardo",
+                "Telefone": "5518981317704"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:54",
+                "VistaID": "",
+                "Nome": "Nycolas E. O. Martins",
+                "Telefone": "554399695849"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:54",
+                "VistaID": "",
+                "Nome": "Charles",
+                "Telefone": "554899480640"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "10:55",
+                "VistaID": "",
+                "Nome": "Marcinha",
+                "Telefone": "554391622478"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "11:00",
+                "VistaID": "",
+                "Nome": "Raquel Maia",
+                "Telefone": "554399120050"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "11:08",
+                "VistaID": "",
+                "Nome": "Marcelo",
+                "Telefone": "554396090005"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "11:12",
+                "VistaID": "",
+                "Nome": "Ângela",
+                "Telefone": "554396088358"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "11:18",
+                "VistaID": "",
+                "Nome": "VALDECIR DE OLIVEIRA",
+                "Telefone": "554391517920"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "11:21",
+                "VistaID": "",
+                "Nome": "Eder",
+                "Telefone": "554384214405"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "11:22",
+                "VistaID": "",
+                "Nome": "Ieda Gomes",
+                "Telefone": "554388157894"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "11:37",
+                "VistaID": "",
+                "Nome": "Fabiana",
+                "Telefone": "5511985922470"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "12:00",
+                "VistaID": "",
+                "Nome": "Rosemari Friedmann Angeli",
+                "Telefone": "554399959201"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "12:04",
+                "VistaID": "",
+                "Nome": "Cristine - Teani Engenharia",
+                "Telefone": "5513988701350"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "12:17",
+                "VistaID": "",
+                "Nome": "Thais Maria Senegalha Fregueto",
+                "Telefone": "5543920003323"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "12:25",
+                "VistaID": "",
+                "Nome": "Ana Paula",
+                "Telefone": "554396779639"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "12:26",
+                "VistaID": "",
+                "Nome": "Dalmir Gomes Da Silva",
+                "Telefone": "554384259727"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "12:31",
+                "VistaID": "",
+                "Nome": "Rose",
+                "Telefone": "554399957074"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "12:32",
+                "VistaID": "",
+                "Nome": "Andrey",
+                "Telefone": "554399238716"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "13:22",
+                "VistaID": "",
+                "Nome": "Marчal",
+                "Telefone": "554388103858"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "13:23",
+                "VistaID": "",
+                "Nome": "Dorcas",
+                "Telefone": "554399130859"
+            },
+            {
+                "Data": "2024-07-07",
+                "Horário": "13:38",
+                "VistaID": "",
+                "Nome": "Sérgio Santos ",
+                "Telefone": "554399231981"
+            }
+        ]
     }
-],
-"unsubscribe": [
-    {
-        "date": "2024-07-05",
-        "vista_client_id": "",
-        "time": "09:00",
-        "nome": "Aline Melo",
-        "fone": "554399315701"
-    },
-    {
-        "date": "2024-07-05",
-        "vista_client_id": "",
-        "time": "09:01",
-        "nome": "Tereza Cristina",
-        "fone": "554399259060"
-    },
-    {
-        "date": "2024-07-05",
-        "vista_client_id": "",
-        "time": "09:01",
-        "nome": "Amadeu Salioni",
-        "fone": "554391397183"
-    },
-    {
-        "date": "2024-07-05",
-        "vista_client_id": "",
-        "time": "09:01",
-        "nome": "Jose Cesar De Lima Ferrei",
-        "fone": "554388148443"
-    },
-    {
-        "date": "2024-07-05",
-        "vista_client_id": "",
-        "time": "09:02",
-        "nome": "Alfredo Braz",
-        "fone": "554384471501"
-    },
-    {
-        "date": "2024-07-05",
-        "vista_client_id": "",
-        "time": "09:02",
-        "nome": "Sandra Vessoni",
-        "fone": "554399934655"
-    },
-    {
-        "date": "2024-07-05",
-        "vista_client_id": "",
-        "time": "09:03",
-        "nome": "Mirian",
-        "fone": "554396669972"
-    },
-    {
-        "date": "2024-07-05",
-        "vista_client_id": "",
-        "time": "09:04",
-        "nome": "Samara Gallete",
-        "fone": "554391388415"
-    },
-    {
-        "date": "2024-07-05",
-        "vista_client_id": "",
-        "time": "09:07",
-        "nome": "Matheus Gois",
-        "fone": "554396010653"
-    },
-    {
-        "date": "2024-07-05",
-        "vista_client_id": "",
-        "time": "09:09",
-        "nome": "Tiago",
-        "fone": "554399434392"
-    },
-    {
-        "date": "2024-07-05",
-        "vista_client_id": "",
-        "time": "09:22",
-        "nome": "Angelo",
-        "fone": "554797721105"
-    },
-    {
-        "date": "2024-07-05",
-        "vista_client_id": "",
-        "time": "09:29",
-        "nome": "Alexandre Pessoa Garcia",
-        "fone": "554384245529"
-    },
-    {
-        "date": "2024-07-05",
-        "vista_client_id": "",
-        "time": "09:40",
-        "nome": "Geraldo",
-        "fone": "554399333119"
-    },
-    {
-        "date": "2024-07-05",
-        "vista_client_id": "",
-        "time": "09:44",
-        "nome": "Kassia Folego",
-        "fone": "554388415787"
-    },
-    {
-        "date": "2024-07-05",
-        "vista_client_id": "",
-        "time": "09:55",
-        "nome": "Juliano Lisboa Sanches",
-        "fone": "554396134748"
-    },
-    {
-        "date": "2024-07-05",
-        "vista_client_id": "",
-        "time": "09:59",
-        "nome": "Antônio",
-        "fone": "554388545206"
-    },
-    {
-        "date": "2024-07-05",
-        "vista_client_id": "",
-        "time": "10:19",
-        "nome": "Manuel Ilidio Salgado",
-        "fone": "554396691811"
-    },
-    {
-        "date": "2024-07-05",
-        "vista_client_id": "",
-        "time": "10:50",
-        "nome": "Edilaine",
-        "fone": "554388376610"
-    },
-    {
-        "date": "2024-07-05",
-        "vista_client_id": "",
-        "time": "11:47",
-        "nome": "Ana Paula Schultz",
-        "fone": "554399744939"
-    },
-    {
-        "date": "2024-07-05",
-        "vista_client_id": "",
-        "time": "11:48",
-        "nome": "Adilson",
-        "fone": "554399093536"
-    },
-    {
-        "date": "2024-07-05",
-        "vista_client_id": "",
-        "time": "12:48",
-        "nome": "Prof. Maria Angela",
-        "fone": "554399438391"
-    },
-    {
-        "date": "2024-07-05",
-        "vista_client_id": "",
-        "time": "13:03",
-        "nome": "Thiago Santos Hort",
-        "fone": "554399302152"
-    },
-    {
-        "date": "2024-07-06",
-        "time": "09:34",
-        "vista_client_id": "",
-        "nome": "HUMBERTO ",
-        "fone": "554391773463"
-    },
-    {
-        "date": "2024-07-06",
-        "time": "09:49",
-        "vista_client_id": "",
-        "nome": "Renê Costa ",
-        "fone": "554391289993"
-    },
-    {
-        "date": "2024-07-06",
-        "time": "09:58",
-        "vista_client_id": "",
-        "nome": "Ione Vasconcellos ",
-        "fone": "554399413092"
-    },
-    {
-        "date": "2024-07-06",
-        "time": "10:07",
-        "vista_client_id": "",
-        "nome": "_JA_ ",
-        "fone": "554388637942"
-    },
-    {
-        "date": "2024-07-06",
-        "time": "10:14",
-        "vista_client_id": "",
-        "nome": "Gabriel Busch ",
-        "fone": "554396328118"
-    },
-    {
-        "date": "2024-07-06",
-        "time": "10:29",
-        "vista_client_id": "",
-        "nome": "Braga Consultoria Business ",
-        "fone": "555196684135"
-    },
-    {
-        "date": "2024-07-06",
-        "time": "10:59",
-        "vista_client_id": "",
-        "nome": "Pedro Asperti ",
-        "fone": "554388025271"
-    },
-    {
-        "date": "2024-07-06",
-        "time": "12:50",
-        "vista_client_id": "",
-        "nome": "Ivo Ramos Da Silva ",
-        "fone": "554399195870"
-    },
-    {
-        "date": "2024-07-06",
-        "time": "13:37",
-        "vista_client_id": "",
-        "nome": "André Peretti ",
-        "fone": "554396573800"
-    },
-    {
-        "date": "2024-07-06",
-        "time": "13:48",
-        "vista_client_id": "",
-        "nome": "Daniel Borges de Souza ",
-        "fone": "554491766423"
-    },
-    {
-        "date": "2024-07-06",
-        "time": "14:18",
-        "vista_client_id": "",
-        "nome": "Gabriel ",
-        "fone": "554391154403"
-    }
-]
 }
