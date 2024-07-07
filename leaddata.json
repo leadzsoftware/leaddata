@@ -3,7 +3,7 @@
         {
             "Data": "2024-07-05",
             "Destinatários": "663",
-            "Entregues": "631",
+            "Entregues": "651",
             "Abertas": "407",
             "Custo": "0.4163"
         },
@@ -17,8 +17,8 @@
         {
             "Data": "2024-07-07",
             "Destinatários": "2117",
-            "Entregues": "1783",
-            "Abertas": "1026",
+            "Entregues": "1786",
+            "Abertas": "1029",
             "Custo": "0.4163"
         },
         {
@@ -27,7 +27,7 @@
             "Entregues": "0",
             "Abertas": "0",
             "Custo": "0.4163",
-            "lastUpdate": "2024-07-07 20:15"
+            "lastUpdate": "2024-07-07 - 20:30"
         }
     ],
     "Lead": [
