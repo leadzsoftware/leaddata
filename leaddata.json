@@ -19,7 +19,8 @@
             "Destinatários": "2117",
             "Entregues": "1782",
             "Abertas": "959",
-            "Custo": "0.4163"
+            "Custo": "0.4163",
+            "lastUpdate": "2024-07-07"
         }
     ],
     "Lead": [
@@ -2193,6 +2194,18 @@
             "Horário": "14:11",
             "Nome": "Dсfila Fagotti ",
             "Telefone": "5511917548472"
+        },
+        {
+            "Data": "2024-07-07",
+            "Horário": "16:06",
+            "Nome": "João Carlos ",
+            "Telefone": "554399915495"
+        },
+        {
+            "Data": "2024-07-07",
+            "Horário": "16:19",
+            "Nome": "Fisio e Salute ",
+            "Telefone": "554391240909"
         }
     ]
 }
