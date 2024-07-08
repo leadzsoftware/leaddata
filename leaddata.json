@@ -24,12 +24,12 @@
         {
             "Data": "2024-07-08",
             "Destinatários": "430",
-            "Entregues": "399",
-            "Abertas": "143",
+            "Entregues": "406",
+            "Abertas": "214",
             "Custo": "4163",
             "campaign": "Campanha Zacaria - Meari - WhatsApp - Junho 2024",
             "updateText": "Dados atualizados até:",
-            "lastUpdate": "2024-07-08 - 11:30"
+            "lastUpdate": "2024-07-08 - 14:30"
         }
     ],
     "Lead": [
@@ -1712,6 +1712,55 @@
             "VistaID": "106492",
             "Nome": "Gianete",
             "Telefone": "5511971453102"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "11:39",
+            "VistaID": "106178",
+            "nome": "Lu",
+            "fone": "554384325520"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "11:50",
+            "VistaID": "105293",
+            "nome": "Tatiani",
+            "fone": "554399757072"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "12:03",
+            "VistaID": "96149",
+            "nome": "Marcello",
+            "fone": "554391394343"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "12:19",
+            "VistaID": "105968",
+            "nome": "Leandro",
+            "fone": "554396180447"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "12:23",
+            "VistaID": "105751",
+            "nome": "Luana Alves",
+            "fone": "5511945434955"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "12:26",
+            "VistaID": "105473",
+            "nome": "João Victor Baxhix",
+            "fone": "554391319132"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "13:17",
+            "VistaID": "104803",
+            "nome": "Renan Costa",
+            "fone": "554384188120"
         }
     ],
     "Descadastrados": [
@@ -2488,6 +2537,48 @@
             "Horário": "11:19",
             "Nome": "Tsuyoshi Kumura ",
             "Telefone": "554391797461"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "11:32",
+            "Nome": "Prof. Maria Angela ",
+            "Telefone": "554399438391"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "11:37",
+            "Nome": "Amelia ",
+            "Telefone": "554391464332"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "12:24",
+            "Nome": "Ednщia De Cсssia ",
+            "Telefone": "554391111979"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "12:41",
+            "Nome": "KASSIA FOLEGO ",
+            "Telefone": "554388415787"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "12:48",
+            "Nome": "antonioapozzobom ",
+            "Telefone": "554396836498"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "12:55",
+            "Nome": "Maria Luiza ",
+            "Telefone": "554384584050"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "13:04",
+            "Nome": "Priscila ",
+            "Telefone": "554396821331"
         }
     ]
 }
