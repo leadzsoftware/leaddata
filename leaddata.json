@@ -2,32 +2,33 @@
     "leaddata": [
         {
             "Data": "2024-07-05",
-            "Destinatários": "663",
+            "Destinatários": "657",
             "Entregues": "651",
-            "Abertas": "407",
-            "Custo": "0.4163"
+            "Abertas": "408",
+            "Custo": "0,4163"
         },
         {
             "Data": "2024-07-06",
-            "Destinatários": "744",
-            "Entregues": "655",
-            "Abertas": "398",
-            "Custo": "0.4163"
+            "Destinatários": "745",
+            "Entregues": "656",
+            "Abertas": "408",
+            "Custo": "0,4163"
         },
         {
             "Data": "2024-07-07",
-            "Destinatários": "2117",
-            "Entregues": "1786",
-            "Abertas": "1029",
-            "Custo": "0.4163"
+            "Destinatários": "2116",
+            "Entregues": "1799",
+            "Abertas": "1090",
+            "Custo": "0,4163"
         },
         {
             "Data": "2024-07-08",
-            "Destinatários": "428",
+            "Destinatários": "432",
             "Entregues": "0",
             "Abertas": "0",
-            "Custo": "0.4163",
-            "lastUpdate": "2024-07-07 - 23:00"
+            "Custo": "0,4163",
+            "campaign": "Campanha Zacaria - Meari - WhatsApp - Junho 2024 - Dados atualizados até:",
+            "lastUpdate": "2024-07-08 - 11:00"
         }
     ],
     "Lead": [
@@ -1582,15 +1583,64 @@
             "Data": "2024-07-07",
             "Horário": "21:00",
             "VistaID": "37861",
-            "nome": "Elaine",
-            "fone": "554398094447"
+            "Nome": "Elaine",
+            "Telefone": "554398094447"
         },
         {
             "Data": "2024-07-07",
             "Horário": "22:42",
             "VistaID": "105766",
-            "nome": "Paula K",
-            "fone": "554284033349"
+            "Nome": "Paula K",
+            "Telefone": "554284033349"
+        },
+        {
+            "Data": "2024-07-07",
+            "Horário": "23:56",
+            "VistaID": "100507",
+            "Nome": "Giovanna Fernandes",
+            "Telefone": "554398291345"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "07:27",
+            "VistaID": "97639",
+            "Nome": "James S Sanches",
+            "Telefone": "554399599050"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "08:28",
+            "VistaID": "43891",
+            "Nome": "Sônia Milani",
+            "Telefone": "554396771897"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "09:04",
+            "VistaID": "28743",
+            "Nome": "Eduardo Lagreca",
+            "Telefone": "554396240032"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "09:15",
+            "VistaID": "102820",
+            "Nome": "Mari",
+            "Telefone": "554398476857"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "09:20",
+            "VistaID": "102660",
+            "Nome": "Pedro",
+            "Telefone": "554399209542"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "10:00",
+            "VistaID": "101485",
+            "Nome": "Jedione Campos",
+            "Telefone": "554388287000"
         }
     ],
     "Descadastrados": [
@@ -2259,6 +2309,24 @@
             "Horário": "19:02",
             "Nome": "Marcelo Capelasso ",
             "Telefone": "554197229829"
-        }
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "00:32",
+            "Nome": "coelhonutrition",
+            "Telefone": "554398267876"
+            },
+            {
+            "Data": "2024-07-08",
+            "Horário": "08:04",
+            "Nome": "CONCREROMA CONCRETO USINADO E ARGAMASSA",
+            "Telefone": "554398065454"
+            },
+            {
+            "Data": "2024-07-08",
+            "Horário": "09:11",
+            "Nome": "Ivan Pires de Camargo",
+            "Telefone": "554399923000"
+            }
     ]
 }
