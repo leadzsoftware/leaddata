@@ -1761,6 +1761,41 @@
             "VistaID": "104803",
             "Nome": "Renan Costa",
             "Telefone": "554384188120"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "14:58",
+            "VistaID": "105341",
+            "Nome": "Débora",
+            "Telefone": "554396755109"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "15:07",
+            "VistaID": "105809",
+            "Nome": "Andressa Ayumi",
+            "Telefone": "554388219380"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "15:16",
+            "VistaID": "45593",
+            "Nome": "Gisele Buono",
+            "Telefone": "554399567759"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "15:27",
+            "VistaID": "105943",
+            "Nome": "Telma Dutra",
+            "Telefone": "554384247455"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "15:28",
+            "VistaID": "99766",
+            "Nome": "Aguinaldo Augustinho",
+            "Telefone": "554384331036"
         }
     ],
     "Descadastrados": [
@@ -2579,6 +2614,12 @@
             "Horário": "13:04",
             "Nome": "Priscila ",
             "Telefone": "554396821331"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "14:34",
+            "Nome": "Gean Carlos Souza",
+            "Telefone": "554399688438"
         }
     ]
 }
