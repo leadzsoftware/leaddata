@@ -27,7 +27,7 @@
             "Entregues": "0",
             "Abertas": "0",
             "Custo": "0.4163",
-            "lastUpdate": "2024-07-07 - 20:30"
+            "lastUpdate": "2024-07-07 - 23:00"
         }
     ],
     "Lead": [
@@ -1577,6 +1577,20 @@
             "VistaID": "43167",
             "Nome": "LBeloti",
             "Telefone": "554399558231"
+        },
+        {
+            "Data": "2024-07-07",
+            "Horário": "21:00",
+            "VistaID": "37861",
+            "nome": "Elaine",
+            "fone": "554398094447"
+        },
+        {
+            "Data": "2024-07-07",
+            "Horário": "22:42",
+            "VistaID": "105766",
+            "nome": "Paula K",
+            "fone": "554284033349"
         }
     ],
     "Descadastrados": [
