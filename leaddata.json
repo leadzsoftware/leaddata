@@ -24,12 +24,12 @@
         {
             "Data": "2024-07-08",
             "Destinatários": "430",
-            "Entregues": "406",
-            "Abertas": "214",
+            "Entregues": "408",
+            "Abertas": "230",
             "Custo": "4163",
             "campaign": "Campanha Zacaria - Meari - WhatsApp - Junho 2024",
             "updateText": "Dados atualizados até:",
-            "lastUpdate": "2024-07-08 - 16:00"
+            "lastUpdate": "2024-07-08 - 17:40"
         }
     ],
     "Lead": [
@@ -1796,6 +1796,13 @@
             "VistaID": "99766",
             "Nome": "Aguinaldo Augustinho",
             "Telefone": "554384331036"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "16:30",
+            "VistaID": "6214",
+            "Nome": "Aconchegante Lençóis",
+            "Telefone": "554391954020"
         }
     ],
     "Descadastrados": [
@@ -2620,6 +2627,12 @@
             "Horário": "14:34",
             "Nome": "Gean Carlos Souza",
             "Telefone": "554399688438"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "17:39",
+            "Nome": "Celia",
+            "Telefone": "554399284928"
         }
     ]
 }
