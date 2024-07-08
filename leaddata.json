@@ -5,7 +5,7 @@
             "Destinatários": "657",
             "Entregues": "651",
             "Abertas": "408",
-            "Custo": "0,4163"
+            "Custo": "0.4163"
         },
         {
             "Data": "2024-07-06",
@@ -19,15 +19,16 @@
             "Destinatários": "2116",
             "Entregues": "1799",
             "Abertas": "1090",
-            "Custo": "0,4163"
+            "Custo": "4163"
         },
         {
             "Data": "2024-07-08",
             "Destinatários": "432",
             "Entregues": "0",
             "Abertas": "0",
-            "Custo": "0,4163",
-            "campaign": "Campanha Zacaria - Meari - WhatsApp - Junho 2024 - Dados atualizados até:",
+            "Custo": "4163",
+            "campaign": "Campanha Zacaria - Meari - WhatsApp - Junho 2024",
+            "updateText": "Dados atualizados até:",
             "lastUpdate": "2024-07-08 - 11:00"
         }
     ],
@@ -1641,6 +1642,13 @@
             "VistaID": "101485",
             "Nome": "Jedione Campos",
             "Telefone": "554388287000"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "10:52",
+            "VistaID": "98700",
+            "Nome": "Angel Renata/SUPORTE",
+            "Telefone": "554399378817"
         }
     ],
     "Descadastrados": [
@@ -2330,3 +2338,8 @@
             }
     ]
 }
+
+
+
+
+
