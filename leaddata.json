@@ -29,7 +29,7 @@
             "Custo": "4163",
             "campaign": "Campanha Zacaria - Meari - WhatsApp - Junho 2024",
             "updateText": "Dados atualizados até:",
-            "lastUpdate": "2024-07-08 - 11:00"
+            "lastUpdate": "2024-07-08 - 11:30"
         }
     ],
     "Lead": [
@@ -1649,6 +1649,69 @@
             "VistaID": "98700",
             "Nome": "Angel Renata/SUPORTE",
             "Telefone": "554399378817"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "11:00",
+            "VistaID": "106019",
+            "Nome": "Francisco Garcia",
+            "Telefone": "5516981277924"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "11:01",
+            "VistaID": "104427",
+            "Nome": "Vitor Giroldo",
+            "Telefone": "554384065646"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "11:01",
+            "VistaID": "104335",
+            "Nome": "Edson Gaiotto",
+            "Telefone": "554398003288"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "11:01",
+            "VistaID": "104908",
+            "Nome": "Pedro Gregori Neto",
+            "Telefone": "5514981852197"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "11:02",
+            "VistaID": "106250",
+            "Nome": "Amanda Almeida",
+            "Telefone": "5515981669809"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "11:02",
+            "VistaID": "102001",
+            "Nome": "Jessica Cabral Lima Haikal",
+            "Telefone": "554399009487"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "11:05",
+            "VistaID": "104352",
+            "Nome": "LEONARDO",
+            "Telefone": "554399519390"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "11:09",
+            "VistaID": "42088",
+            "Nome": "Jose Bernadino Seixas",
+            "Telefone": "554391679966"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "11:10",
+            "VistaID": "106492",
+            "Nome": "Gianete",
+            "Telefone": "5511971453102"
         }
     ],
     "Descadastrados": [
@@ -2323,23 +2386,108 @@
             "Horário": "00:32",
             "Nome": "coelhonutrition",
             "Telefone": "554398267876"
-            },
-            {
+        },
+        {
             "Data": "2024-07-08",
             "Horário": "08:04",
             "Nome": "CONCREROMA CONCRETO USINADO E ARGAMASSA",
             "Telefone": "554398065454"
-            },
-            {
+        },
+        {
             "Data": "2024-07-08",
             "Horário": "09:11",
             "Nome": "Ivan Pires de Camargo",
             "Telefone": "554399923000"
-            }
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "11:00",
+            "Nome": "Felipe ",
+            "Telefone": "554187429443"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "11:00",
+            "Nome": "Isa Ferraz ",
+            "Telefone": "554399081982"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "11:00",
+            "Nome": "André Peretti ",
+            "Telefone": "554396573800"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "11:01",
+            "Nome": "Jorge ",
+            "Telefone": "5518997174745"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "11:01",
+            "Nome": "Cláudio Canuto ",
+            "Telefone": "554388027090"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "11:01",
+            "Nome": "Joao henrique Bahls ",
+            "Telefone": "554499506519"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "11:02",
+            "Nome": "Cris ",
+            "Telefone": "554391413645"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "11:03",
+            "Nome": "Paulo Forte ",
+            "Telefone": "554391181858"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "11:04",
+            "Nome": "Turibio Costa ",
+            "Telefone": "5517997113060"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "11:05",
+            "Nome": "Pedro Regazzo ",
+            "Telefone": "554396352821"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "11:05",
+            "Nome": "Samara Gallete ",
+            "Telefone": "554391388415"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "11:05",
+            "Nome": "Márcia ",
+            "Telefone": "554391617210"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "11:08",
+            "Nome": "Adriano Toffolo ",
+            "Telefone": "554399457705"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "11:12",
+            "Nome": "Amadeu Salioni ",
+            "Telefone": "554391397183"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "11:19",
+            "Nome": "Tsuyoshi Kumura ",
+            "Telefone": "554391797461"
+        }
     ]
 }
-
-
-
-
-
