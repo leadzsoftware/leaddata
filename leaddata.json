@@ -25,11 +25,11 @@
             "Data": "2024-07-08",
             "Destinatários": "430",
             "Entregues": "408",
-            "Abertas": "240",
+            "Abertas": "243",
             "Custo": "4163",
             "campaign": "Campanha Zacaria - Meari - WhatsApp - Junho 2024",
             "updateText": "Dados atualizados até:",
-            "lastUpdate": "2024-07-09 - 10:00"
+            "lastUpdate": "2024-07-09 - 14:00"
         }
     ],
     "Lead": [
@@ -1810,6 +1810,13 @@
             "VistaID": "89093",
             "Nome": "Oscar Neto",
             "Telefone": "554399822445"
+        },
+        {
+            "Data": "2024-07-09",
+            "Horário": "12:56",
+            "VistaID": "105428",
+            "Nome": "Andrew Bianchini",
+            "Telefone": "554391311500"
         }
     ],
     "Descadastrados": [
@@ -2652,6 +2659,12 @@
             "Horário": "19:50",
             "Nome": "João Rossi",
             "Telefone": "554384482335"
+        },
+        {
+            "Data": "2024-07-09",
+            "Horário": "19:50",
+            "Nome": "Mi",
+            "Telefone": "554399755192"
         }
     ]
 }
