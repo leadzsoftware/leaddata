@@ -3,33 +3,33 @@
         {
             "Data": "2024-07-05",
             "Destinatários": "657",
-            "Entregues": "651",
-            "Abertas": "408",
+            "Entregues": "631",
+            "Abertas": "409",
             "Custo": "0.4163"
         },
         {
             "Data": "2024-07-06",
             "Destinatários": "745",
             "Entregues": "656",
-            "Abertas": "408",
+            "Abertas": "415",
             "Custo": "0,4163"
         },
         {
             "Data": "2024-07-07",
             "Destinatários": "2116",
-            "Entregues": "1799",
-            "Abertas": "1090",
+            "Entregues": "1801",
+            "Abertas": "1120",
             "Custo": "4163"
         },
         {
             "Data": "2024-07-08",
             "Destinatários": "430",
             "Entregues": "408",
-            "Abertas": "236",
+            "Abertas": "240",
             "Custo": "4163",
             "campaign": "Campanha Zacaria - Meari - WhatsApp - Junho 2024",
             "updateText": "Dados atualizados até:",
-            "lastUpdate": "2024-07-08 - 20:00"
+            "lastUpdate": "2024-07-09 - 10:00"
         }
     ],
     "Lead": [
@@ -1803,6 +1803,13 @@
             "VistaID": "6214",
             "Nome": "Aconchegante Lençóis",
             "Telefone": "554391954020"
+        },
+        {
+            "Data": "2024-07-09",
+            "Horário": "08:20",
+            "VistaID": "89093",
+            "Nome": "Oscar Neto",
+            "Telefone": "554399822445"
         }
     ],
     "Descadastrados": [
@@ -2639,6 +2646,12 @@
             "Horário": "17:42",
             "Nome": "Roberta Aparecida Bata Alves Costa",
             "Telefone": "5511941691302"
+        },
+        {
+            "Data": "2024-07-08",
+            "Horário": "19:50",
+            "Nome": "João Rossi",
+            "Telefone": "554384482335"
         }
     ]
 }
