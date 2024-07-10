@@ -29,7 +29,7 @@
             "Custo": "4163",
             "campaign": "Campanha Zacaria - Meari - WhatsApp - Junho 2024",
             "updateText": "Dados atualizados até:",
-            "lastUpdate": "2024-07-09 - 14:00"
+            "lastUpdate": "2024-07-10 - 10:20"
         }
     ],
     "Lead": [
@@ -1817,6 +1817,13 @@
             "VistaID": "105428",
             "Nome": "Andrew Bianchini",
             "Telefone": "554391311500"
+        },
+        {
+            "Data": "2024-07-09",
+            "Horário": "21:18",
+            "VistaID": "99535",
+            "Nome": "Leonardo",
+            "Telefone": "554388649523"
         }
     ],
     "Descadastrados": [
@@ -2665,6 +2672,18 @@
             "Horário": "19:50",
             "Nome": "Mi",
             "Telefone": "554399755192"
+        },
+        {
+            "Data": "2024-07-09",
+            "Horário": "17:23",
+            "Nome": "Rosi Flor Blue Gessoart' ",
+            "Telefone": "554396585378"
+        },
+        {
+            "Data": "2024-07-09",
+            "Horário": "18:06",
+            "Nome": "edson scalassara ",
+            "Telefone": "554391416822"
         }
     ]
 }
