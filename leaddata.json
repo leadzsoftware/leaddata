@@ -4,21 +4,21 @@
             "Data": "2024-07-05",
             "Destinatários": "657",
             "Entregues": "631",
-            "Abertas": "409",
+            "Abertas": "412",
             "Custo": "0.4163"
         },
         {
             "Data": "2024-07-06",
             "Destinatários": "745",
-            "Entregues": "656",
-            "Abertas": "415",
+            "Entregues": "657",
+            "Abertas": "418",
             "Custo": "0,4163"
         },
         {
             "Data": "2024-07-07",
             "Destinatários": "2116",
-            "Entregues": "1801",
-            "Abertas": "1120",
+            "Entregues": "1808",
+            "Abertas": "1143",
             "Custo": "4163"
         },
         {
@@ -29,7 +29,7 @@
             "Custo": "4163",
             "campaign": "Campanha Zacaria - Meari - WhatsApp - Junho 2024",
             "updateText": "Dados atualizados até:",
-            "lastUpdate": "2024-07-11 - 08:00"
+            "lastUpdate": "2024-07-11 - 10:00"
         }
     ],
     "Lead": [
@@ -1831,6 +1831,13 @@
             "VistaID": "107795",
             "Nome": "Daniele",
             "Telefone": "554399818395"
+        },
+        {
+            "Data": "2024-07-11",
+            "Horário": "08:38",
+            "VistaID": "106068",
+            "Nome": "Silva",
+            "Telefone": "554399805212"
         }
     ],
     "Descadastrados": [
