@@ -1845,6 +1845,20 @@
             "VistaID": "40790",
             "nome": ".",
             "fone": "554391345800"
+        },
+        {
+            "Data": "2024-07-13",
+            "Horário": "00:11",
+            "VistaID": "105832",
+            "nome": "Jonhy",
+            "fone": "554396120935"
+        },
+        {
+            "Data": "2024-07-13",
+            "Horário": "16:30",
+            "VistaID": "106392",
+            "Nome": "Evandro",
+            "Telefone": "554399828699"
         }
     ],
     "Descadastrados": [
@@ -2705,6 +2719,12 @@
             "Horário": "18:06",
             "Nome": "edson scalassara ",
             "Telefone": "554391416822"
+        },
+        {
+            "Data": "2024-07-13",
+            "Horário": "19:38",
+            "Nome": "Edneia Almodin ",
+            "Telefone": "554399335416"
         }
     ]
 }
